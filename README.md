@@ -39,22 +39,9 @@ static const engenheiro_t manuel = {
 
 ## Áreas de atuação
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>Firmware e embarcados</b><br/><br/>
-      Firmware em C/C++ para ESP32, Arduino e ARM/Linux embarcado, FreeRTOS, drivers e aquisição de dados por Modbus, I2C, SPI e UART.
-    </td>
-    <td width="33%" valign="top">
-      <b>Automação e IIoT</b><br/><br/>
-      Integração do chão de fábrica com software: servidores OPC UA, telemetria MQTT, mensageria, APIs e dashboards de monitoramento.
-    </td>
-    <td width="33%" valign="top">
-      <b>Robótica e Indústria 4.0</b><br/><br/>
-      AMRs, braços manipuladores e células automatizadas; gêmeos digitais com Asset Administration Shell segundo o RAMI 4.0.
-    </td>
-  </tr>
-</table>
+| Firmware e embarcados | Automação e IIoT | Robótica e Indústria 4.0 |
+|---|---|---|
+| Firmware C/C++ para ESP32, Arduino e Linux embarcado, com FreeRTOS e aquisição de dados | Chão de fábrica conectado ao software: OPC UA, MQTT, APIs e dashboards | AMRs, manipuladores e células automatizadas; gêmeos digitais com AAS |
 
 ## Tecnologias
 
